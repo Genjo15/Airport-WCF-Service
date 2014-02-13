@@ -1,0 +1,10 @@
+c:\users\anthony\documents\visual studio 2012\Projects\Airport WCF Service\Airport WCF Service\obj\Debug\AirportService.csprojResolveAssemblyReference.cache
+c:\users\anthony\documents\visual studio 2012\Projects\Airport WCF Service\Airport WCF Service\bin\Debug\Airport WCF Service.dll.config
+c:\users\anthony\documents\visual studio 2012\Projects\Airport WCF Service\Airport WCF Service\bin\Debug\Airport WCF Service.dll
+c:\users\anthony\documents\visual studio 2012\Projects\Airport WCF Service\Airport WCF Service\bin\Debug\Airport WCF Service.pdb
+c:\users\anthony\documents\visual studio 2012\Projects\Airport WCF Service\Airport WCF Service\bin\Debug\AirportEntities.dll
+c:\users\anthony\documents\visual studio 2012\Projects\Airport WCF Service\Airport WCF Service\bin\Debug\AirportModel.dll
+c:\users\anthony\documents\visual studio 2012\Projects\Airport WCF Service\Airport WCF Service\bin\Debug\AirportEntities.pdb
+c:\users\anthony\documents\visual studio 2012\Projects\Airport WCF Service\Airport WCF Service\bin\Debug\AirportModel.pdb
+c:\users\anthony\documents\visual studio 2012\Projects\Airport WCF Service\Airport WCF Service\obj\Debug\Airport WCF Service.dll
+c:\users\anthony\documents\visual studio 2012\Projects\Airport WCF Service\Airport WCF Service\obj\Debug\Airport WCF Service.pdb
